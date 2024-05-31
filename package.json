@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/vue-splide": "^0.6.12",
+    "swiper": "^11.1.4",
     "vue": "^3.2.13"
   },
   "devDependencies": {
